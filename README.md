@@ -4,9 +4,6 @@
 
 <h3 align="center">🚀 Engineering Student | Software Developer | UI/UX Enthusiast</h3>
 
-
-
-
 ---
 
 ### 🛠️ Tech Stack  
