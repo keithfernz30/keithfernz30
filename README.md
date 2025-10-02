@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&color=FF007F&center=true&vCenter=true&width=550&lines=HI+👋,+I'M+KEITH+FERNANDES" alt="Hi, I'm Keith Fernandes"/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=FF007F&center=true&vCenter=true&width=550&lines=HI+👋,+I'M+KEITH+FERNANDES&cursor=terminal&cursorColor=FF007F" alt="Hi, I'm Keith Fernandes"/>
 </p>
-
 <h3 align="center">🚀 Engineering Student | Software Developer | UI/UX Enthusiast</h3>
 
 ---
