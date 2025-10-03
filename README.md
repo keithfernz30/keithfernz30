@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=200000&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Access+Granted...;Keith+Fernandes+is+Online" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Access+Granted...;Keith+Fernandes+is+Devloping&loop=false&repeat=false" alt="Animated Terminal Access Text"/>
 </p>
 
 <h3 align="center">🚀 Engineering Student | Software Developer | UI/UX Enthusiast</h3>
