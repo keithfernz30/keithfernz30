@@ -26,9 +26,5 @@
 
 ---
 
-### 🏆 GitHub Achievements  
-<p align="center">  
-<img src="https://github-profile-trophy.vercel.app/?username=keithfernz30&theme=dracula&row=1&column=6" />  
-</p>
 
 
