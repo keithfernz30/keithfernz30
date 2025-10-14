@@ -24,9 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keithfernz30&layout=compact&langs_count=6&theme=radical" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keithfernz30&theme=radical" alt="keithfernz30" />
-</p>
+
 
 
 
